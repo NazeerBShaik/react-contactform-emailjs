@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-contactform-emailjs/static/css/main.deade4a1.css",
+    "main.js": "/react-contactform-emailjs/static/js/main.b091ac0a.js",
+    "static/js/787.17536e07.chunk.js": "/react-contactform-emailjs/static/js/787.17536e07.chunk.js",
+    "index.html": "/react-contactform-emailjs/index.html",
+    "main.deade4a1.css.map": "/react-contactform-emailjs/static/css/main.deade4a1.css.map",
+    "main.b091ac0a.js.map": "/react-contactform-emailjs/static/js/main.b091ac0a.js.map",
+    "787.17536e07.chunk.js.map": "/react-contactform-emailjs/static/js/787.17536e07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deade4a1.css",
+    "static/js/main.b091ac0a.js"
+  ]
+}
