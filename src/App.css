@@ -23,7 +23,9 @@ form{
 h1{
   text-align: center;
   background-color:#61764B ;
-
+}
+p{
+  text-align: center;
 }
 label{
   margin: 8px;
